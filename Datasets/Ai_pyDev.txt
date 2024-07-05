@@ -1,0 +1,430 @@
+Explain Artificial Intelligence and give its applications.,Artificial Intelligence (AI) is a field of Computer Science focuses on creating systems that can perform tasks that would typically require human intelligence, such as recognizing speech, understanding natural language, making decisions, and learning. We use AI to build various applications, including image and speech recognition, natural language processing (NLP), robotics, and machine learning models like neural networks.
+How are machine learning and AI related?,Machine learning and Artificial Intelligence (AI) are closely related but distinct fields within the broader domain of computer science. AI includes not only machine learning but also other approaches, like rule-based systems, expert systems, and knowledge-based systems, which do not necessarily involve learning from data. Many state-of-the-art AI systems are built upon machine learning techniques, as these approaches have proven to be highly effective in tackling complex, data-driven problems.
+What is Deep Learning based on?,Deep learning is a subfield of machine learning that focuses on the development of artificial neural networks with multiple layers, also known as deep neural networks. These networks are particularly effective in modeling complex, hierarchical patterns and representations in data. Deep learning is inspired by the structure and function of the human brain, specifically the biological neural networks that make up the brain.
+Learn more about AI vs ML vs Deep Learning here.
+How many layers are in a Neural Network?,Neural networks are one of many types of ML algorithms that are used to model complex patterns in data. They are composed of three layers  —  input layer, hidden layer, and output layer.
+Explain TensorFlow.,TensorFlow is an open-source platform developed by Google designed primarily for high-performance numerical computation. It offers a collection of workflows that can be used to develop and train models to make machine learning robust and efficient. TensorFlow is customizable, and thus, helps developers create experiential learning architectures and work on the same to produce desired results.
+What are the pros of cognitive computing?,Cognitive computing is a type of AI that mimics human thought processes.We use this form of computing to solve problems that are complex for traditional computer systems. Some major benefits of cognitive computing are:
+
+It is the combination of technology that helps to understand human interaction and provide answers.
+Cognitive computing systems acquire knowledge from the data.
+These computing systems also enhance operational efficiency for enterprises.
+What’s the difference between NLP and NLU?,Natural Language Processing (NLP) and Natural Language Understanding (NLU) are two closely related subfields within the broader domain of Artificial Intelligence (AI), focused on the interaction between computers and human languages. Although they are often used interchangeably, they emphasize different aspects of language processing.
+NLP deals with the development of algorithms and techniques that enable computers to process, analyze, and generate human language. NLP covers a wide range of tasks, including text analysis, sentiment analysis, machine translation, summarization, part-of-speech tagging, named-entity recognition, and more. The goal of NLP is to enable computers to effectively handle text and speech data, extract useful information, and generate human-like language outputs.
+While, NLU is a subset of NLP that focuses specifically on the comprehension and interpretation of meaning from human language inputs. NLU aims to disambiguate the nuances, context, and intent in human language, helping machines grasp not just the structure but also the underlying meaning, sentiment, and purpose. NLU tasks may include sentiment analysis, question-answering, intent recognition, and semantic parsing.
+Give some examples of weak and strong AI.,Some examples of weak AI include rule-based systems and decision trees. Basically, those systems that require an input come under weak AI.  On the other hand, a strong AI includes neural networks and deep learning, as these systems and functions can teach themselves to solve problems.
+What is the need of data mining?,Data mining is the process of discovering patterns, trends, and useful information from large datasets using various algorithms, statistical methods, and machine learning techniques. It has gained significant importance due to the growth of data generation and storage capabilities. The need for data mining arises from several aspects, including decision-making.
+Name some sectors where data mining is applicable.,There are many sectors where data mining is applicable, including:
+Healthcare -It is used to predict patient outcomes, detection of fraud and abuse, measure the effectiveness of certain treatments, and develop patient and doctor relationships.
+Finance -The finance and banking industry depends on high-quality, reliable data. It can be used to predict stock prices, predict loan payments and determine credit ratings.
+Retail - It is used to predict consumer behavior, noticing buying patterns to improve customer service and satisfaction.
+What are the components of NLP?,There are three main components to NLP:
+
+
+Language understanding - This defines the ability to interpret the meaning of a piece of text
+
+
+Language generation - This is helpful in producing text that is  grammatically correct and conveys the intended meaning.
+
+
+Language processing - This helps in performing  operations on a piece of text, such as tokenization, lemmatization, and part-of-speech tagging.
+What is the full form of LSTM?,LSTM stands for Long Short-Term Memory, and it is a type of recurrent neural network  (RNN) architecture that is widely used in artificial intelligence and natural language processing. LSTM networks have been successfully used in a wide range of applications, including speech recognition, language translation, and video analysis, among others.
+What is Artificial Narrow Intelligence (ANI)?,Artificial Narrow Intelligence (ANI), also known as Weak AI, refers to AI systems that are designed and trained to perform a specific task or a narrow range of tasks. These systems are highly specialized and can perform their designated task with a high degree of accuracy and efficiency. This type of technology is also known as Weak AI.
+What is a data cube?,A data cube is a multidimensional (3D) representation of data that can be used to support various types of analysis and modeling. Data cubes are often used in machine learning and data mining applications to help identify patterns, trends, and correlations in complex datasets.
+What is the difference between model accuracy and model performance?,Model accuracy refers to how often a model correctly predicts the outcome of a specific task on a given dataset. Model performance, on the other hand, is a broader term that encompasses various aspects of a model's performance, including its accuracy, precision, recall, F1 score, AUC-ROC, etc. Depending on the problem you're solving, one metric may be more important than the other.
+What are different components of GAN?,Generative Adversarial Network (GAN) are a class of deep learning models that consist of two primary components working together in a competitive setting. GANs are used to generate new, synthetic data that closely resemble a given real-world dataset. The two main components of a GAN are:
+Generator: The generator is a neural network that takes random noise as input and generates synthetic data samples. The aim of the generator is to produce realistic data that mimic the distribution of the real-world data. As the training progresses, the generator becomes better at generating data that closely resemble the original dataset, without actually replicating any specific instances.
+Discriminator: The discriminator is another neural network that is responsible for distinguishing between real data samples (from the original dataset) and synthetic data samples (generated by the generator). Its objective is to correctly classify the input as real or synthesized.
+What are common data structures used in deep learning?,Deep learning models involve handling various types of data, which require specific data structures to store and manipulate the data efficiently. Some of the most common data structures used in deep learning are:
+Tensors: Tensors are multi-dimensional arrays and are the fundamental data structure used in deep learning frameworks like TensorFlow and PyTorch. They are used to represent a wide variety of data, including scalars, vectors, matrices, or higher-dimensional arrays.
+Matrices: Matrices are two-dimensional arrays and are a special case of tensors. They are widely used in linear algebra operations that are common in deep learning, such as matrix multiplication, transpose, and inversion.
+Vectors: Vectors are one-dimensional arrays and can also be regarded as a special case of tensors. They are used to represent individual data points, model parameters, or intermediate results during calculations.
+Arrays: Arrays are fixed-size, homogeneous data structures that can store elements in a contiguous memory location. Arrays can be one-dimensional (similar to vectors) or multi-dimensional (similar to matrices or tensors).
+What is the role of the hidden layer in a neural network?,The hidden layer in a neural network is responsible for mapping the input to the output. The hidden layer's function is to extract and learn features from the input data that are relevant for the given task. These features are then used by the output layer to make predictions or classifications.
+In other words, the hidden layer acts as a "black box" that transforms the input data into a form that is more useful for the output layer.
+Mention some advantages of neural networks.,Some advantages of neural networks include:
+
+Neural networks need less formal statistical training.
+Neural networks can detect non-linear relationships between variables and can identify all types of interactions between predictor variables.
+Neural networks can handle large amounts of data and extract meaningful insights from it. This makes them useful in a variety of applications, such as image recognition, speech recognition, and natural language processing.
+Neural networks are able to filter out noise and extract meaningful features from data. This makes them useful in applications where the data may be noisy or contain irrelevant information.
+Neural networks can adapt to changes in the input data and adjust their parameters accordingly. This makes them useful in applications where the input data is dynamic or changes over time.
+What is the difference between stemming and lemmatization?,The main difference between stemming and lemmatization is that stemming is a rule-based process, while lemmatization is a more sophisticated, dictionary-based approach.
+What are the different types of text summarization?,There are two main types of text summarization:
+Extraction-based: It does not take new phrases and words; instead, it uses the already existing phrases and words and presents only that. Extraction-based summarization ranks all the sentences according to the relevance and understanding of the text and presents you with the most important sentences.
+Abstraction-based: It creates phrases and words, puts them together, and makes a meaningful word or sentence. Along with that, abstraction-based summarization adds the most important facts found in the text. It tries to find out the meaning of the whole text and presents the meaning to you.
+What is the meaning of corpus in NLP?,Corpus in NLP refers to a large collection of texts. A corpus can be used for various tasks such as building dictionaries, developing statistical models, or simply for reading comprehension.
+Explain binarizing of data.,Binarizing of data is the process of converting data features of any entity into vectors of binary numbers to make classifier algorithms more productive. The binarizing technique is used for the recognition of shapes, objects, and characters. Using this, it is easy to distinguish the object of interest from the background in which it is found.
+What is perception and its types?,Perception is the process of interpreting sensory information, and there are three main types of perception: visual, auditory, and tactile.
+Vision: It is used in the form of face recognition, medical imaging analysis, 3D scene modeling, video recognition, human pose tracking, and many more
+Auditory: Machine Auditory has a wide range of applications, such as speech synthesis, voice recognition, and music recording. These solutions are integrated into voice assistants and smartphones.
+Tactile: With this, machines are able to acquire intelligent reflexes and better interact with the environment.
+Give some pros and cons of decision trees.,Decision trees have some advantages, such as being easy to understand and interpret, but they also have some disadvantages, such as being prone to overfitting.
+Explain marginalization process.,The marginalization process is used to eliminate certain variables from a set of data, in order to make the data more manageable. In probability theory, marginalization involves integrating over a subset of variables in a joint distribution to obtain the distribution of the remaining variables. The process essentially involves "summing out" the variables that are not of interest, leaving only the variables that are desired.
+What is the function of an artificial neural network?,An artificial neural network is a ML algorithm that is used to simulate the workings of the human brain. ANNs consist of interconnected nodes (also known as neurons) that process and transmit information in a way that mimics the behavior of biological neurons.
+The primary function of an artificial neural network is to learn from input data, such as images, text, or numerical values, and then make predictions or classifications based on that data. ANNs can be used for a wide range of tasks, such as image recognition, natural language processing, and predictive analytics.
+Explain cognitive computing and its types?,Cognitive computing is a subfield of AI that focuses on creating systems that can mimic human cognition and perform tasks that require human-like intelligence. The primary goal of cognitive computing is to enable computers to interact more naturally with humans, understand complex data, reason, learn from experience, and make decisions autonomously.
+There is no strict categorization of cognitive computing types; however, the key capabilities and technologies associated with cognitive computing can be grouped as follows:
+NLP: NLP techniques enable cognitive computing systems to understand, process, and generate human language in textual or spoken form.
+Machine Learning: Machine learning is essential for cognitive computing, as it allows systems to learn from data, adapt, and improve their performance over time.
+Computer Vision: Computer vision deals with the interpretation and understanding of visual information, such as images and videos. In cognitive computing, it is used to extract useful information from visual data, recognize objects, understand scenes, and analyze emotions or expressions.
+Explain the function of deep learning frameworks.,Deep learning frameworks are software libraries and tools designed to simplify the development, training, and deployment of deep learning models. They provide a range of functionalities that support the implementation of complex neural networks and the execution of mathematical operations required for their training and inference processes. Some popular deep learning frameworks are TensorFlow, Keras, and PyTorch.
+How are speech recognition and video recognition different?,Speech recognition and video recognition are two distinct areas within AI and involve processing and understanding different types of data. While they share some commonalities in terms of using machine learning and pattern recognition techniques, they differ in the data, algorithms, and objectives associated with each domain.
+Speech Recognition focuses on the automatic conversion of spoken language into textual form. This process involves understanding and transcribing the spoken words, phrases, and sentences from an audio signal.
+Video Recognition deals with the analysis and understanding of visual information in the form of videos. This process primarily involves extracting meaningful information from a series of image frames, such as detecting objects, recognizing actions, identifying scenes, and tracking moving objects.
+What is the pooling layer on CNN?,A pooling layer is a type of layer used in a convolutional neural network (CNN). Pooling layers downsample the input feature maps by summary pooled areas. This reduces the dimensionality of the feature map and makes the CNN more robust to small changes in the input.
+What is the purpose of  Boltzmann machine?,Boltzmann machines are a type of energy-based model which learn a probability distribution by simulating a system of diverging and converging nodes. These nodes act like neurons in a neural network, and can be used to build deep learning models.
+What do you mean by regular grammar?,Regular grammar is a type of grammar that specifies a set of rules for how strings can be formed from a given alphabet. These rules can be used to generate new strings or to check if a given string is valid.
+How do you obtain data for NLP projects?,There are many ways to obtain data for NLP projects. Some common sources of data include texts, transcripts, social media posts, and reviews. You can also use web scraping and other methods to collect data from the internet.
+Explain regular expression in layman’s terms.,Regular expressions are a type of syntax used to match patterns in strings. They can be used to find, replace, or extract text. In layman's terms, regular expressions are a way to describe patterns in data. They are commonly used in programming, text editing, and data processing tasks to manipulate and extract text in a more efficient and precise way.
+How is NLTK different from spaCy?,Both NLTK and spaCy are popular NLP libraries in Python, but they have some key differences:
+NLTK is a general-purpose NLP library that provides a wide range of tools and algorithms for basic NLP tasks such as tokenization, stemming, and part-of-speech tagging. NLTK also has tools for text classification, sentiment analysis, and machine translation. In contrast, spaCy focuses more on advanced NLP tasks such as named entity recognition, dependency parsing, and semantic similarity.
+spaCy is generally considered to be faster and more efficient than NLTK due to its optimized Cython-based implementation. spaCy is designed to process large volumes of text quickly and efficiently, making it well-suited for production environments.
+Name some best tools useful in NLP.,There are several powerful tools and libraries available for Natural Language Processing (NLP) tasks, which cater to various needs like text processing, tokenization, sentiment analysis, machine translation, among others. Some of the best NLP tools and libraries include:
+NLTK: NLTK is a popular Python library for working with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources, along with text processing libraries for classification, tokenization, stemming, tagging, parsing, and more.
+spaCy: spaCy is a modern, high-performance, and industry-ready NLP library for Python. It offers state-of-the-art algorithms for fast and accurate text processing, and includes features like part-of-speech tagging, named entity recognition, dependency parsing, and word vectors.
+Gensim: Gensim is a Python library designed for topic modeling and document similarity analysis. It specializes in unsupervised semantic modeling and is particularly useful for tasks like topic extraction, document comparison, and information retrieval.
+OpenNLP: OpenNLP is an open-source Java-based NLP library that provides various components such as tokenizer, sentence segmenter, part-of-speech tagger, parser, and named entity recognizer. It is widely used for creating natural language processing applications.
+Are chatbots derived from NLP?,Yes, chatbots are derived from NLP. NLP is used to process and understand human language so that chatbots can respond in a way that is natural for humans.
+What is embedding and what are some techniques to accomplish embedding?,Embedding is a technique to represent data in a vector space so that similar data points are close together. Some techniques to accomplish embedding are word2vec and GloVe.
+Word2vec: It is used to find similar words which have similar dimensions and, consequently, help bring context. It helps in establishing the association of a word with another similar meaning word through the created vectors.
+GloVe: It is used for word representation. GloVe is developed for generating word embeddings by aggregating global word-word co-occurrence matrices from a corpus. The result shows the linear structure of the word in vector space.
+Why do we need activation functions in neural networks?,Activation functions play a vital role in neural networks, serving as a non-linear transformation applied to the output of a neuron or node. They determine the output of a neuron based on the weighted sum of its inputs, introducing non-linearity into the network. The inclusion of activation functions allows neural networks to model complex, non-linear relationships in the data.
+Explain gradient descent.,Gradient descent is a popular optimization algorithm that is used to find the minimum of a function iteratively. It's widely used in machine learning and deep learning for training models by minimizing the error or loss function, which measures the difference between the predicted and actual values.
+What is the purpose of data normalization?,Data normalization is a pre-processing technique used in machine learning and statistics to standardize and scale the features or variables in a dataset. The purpose of data normalization is to bring different features or variables to a common scale, which allows for more accurate comparisons and better performance of learning algorithms.
+The main purposes of data normalization are:
+Improving model performance: Some machine learning algorithms, like gradient-based optimization methods or distance-based classifiers, are sensitive to the feature scale.
+Ensuring fair comparison: Normalization brings all features to a comparable range, mitigating the effect of different magnitudes or units of measurement, and ensuring that each feature contributes equally to the model's predictions.
+Faster convergence: Gradient-based optimization algorithms can converge faster when data are normalized, as the search space becomes more uniformly scaled and the gradients have a more consistent magnitude.
+Reducing numerical issues: Normalizing data can help prevent numerical issues like over- or underflow that may arise when dealing with very large or very small numbers during calculations.
+Name some activation functions.,Some common activation functions include sigmoid, tanh, and ReLU.
+Sigmoid: Maps the input to a value between 0 and 1, allowing for smooth gradient updates. However, it suffers from the vanishing gradient problem and is not zero-centered.
+Tanh: Maps the input to a value between -1 and 1, providing a zero-centered output. Like the sigmoid function, it can also suffer from the vanishing gradient problem.
+ReLU (Rectified Linear Unit): Outputs 0 for negative input values and retains the input for positive values. It helps alleviate the vanishing gradient problem and has faster computation time, but the output is not zero-centered and can suffer from the dying ReLU issue.
+Briefly explain data augmentation.,Data augmentation is a technique used to increase the amount of data available for training a machine learning model. This is especially important for deep learning models, which require large amounts of data to train.
+What is the Swish function?,The Swish function is an activation function. It is a smooth, non-linear, and differentiable function that has been shown to outperform some of the traditional activation functions, like ReLU, in certain deep learning tasks.
+Explain forward propagation and backpropagation.,Forward propagation is the process of computing the output of a neural network given an input. Forward propagation involves passing an input through the network, layer by layer, until the output is produced. Each layer applies a transformation to the output of the previous layer using a set of weights and biases. The activation function is applied to the transformed output, producing the final output of the layer.
+On the other hand, backpropagation is the process of computing the gradient of the loss function with respect to the weights of the network. It is used to update the weights and biases of the network during the training process. It involves calculating the gradient of the loss function with respect to each weight and bias in the network. The gradient is then used to update the weights and biases using an optimization algorithm such as gradient descent.
+What is classification and its benefits?,Classification is a type of supervised learning task in machine learning and statistics, where the objective is to assign input data points to one of several predefined categories or labels. In a classification problem, the model is trained on a dataset with known labels and learns to predict the category to which a new, unseen data point belongs. Examples of classification tasks include spam email detection, image recognition, and medical diagnosis.
+Some benefits of classification include:
+Decision-making: Classification models can help organizations make informed decisions based on patterns and relationships found in the data.
+Pattern recognition: Classification algorithms are capable of identifying and learning complex patterns in data, enabling them to predict the category of new inputs accurately.
+Anomaly detection: Classification models can be used to detect unusual or anomalous data points that don't fit the learned patterns.
+Personalization and recommendation: Classification models can be used to tailor content and recommendations to individual users, enhancing user experiences and increasing engagement.
+What is a convolutional neural network?,Convolutional neural networks are a type of neural network that is well-suited for image classification tasks. In classification, the model learns to classify input data into one or more predefined classes or categories based on the features of the data. There are various benefits of classification, and it has numerous practical applications in different fields, such as:
+Object Recognition: It is used in image and speech recognition to identify objects, faces, or voices.
+Sentiment Analysis: It helps understand the polarity of textual data, which can be used to gauge customer feedback, opinions, and emotions.
+Email Spam Filtering: It can be used to classify emails into a spam or non-spam categories to improve email communication.
+Explain autoencoders and its types.,Autoencoders are a type of neural network that is used for dimensionality reduction. The different types of autoencoders include Denoising, Sparse, Undercomplete, etc.
+Denoising Autoencoder: It is used to achieve good representation, meaning it can be obtained robustly from a corrupted input, which will be useful for recovering the corresponding clean input.
+Sparse Autoencoder: This has a sparsity penalty, a value close to zero but not exactly zero. It is applied on the hidden layer in addition to the reconstruction error, which prevents overfitting.
+Undercomplete Autoencoder: This does not need any regularization because they maximize the probability of data rather than copying the input to the output.
+State fuzzy approximation theorem.,Fuzzy approximation theorem states that a function can be approximated as closely as desired using a combination of fuzzy sets. The theorem states that any continuous function can be represented as a weighted sum of linear functions, where the weights are fuzzy sets that capture the input variables' uncertainty.
+What are the main components of LSTM?,LSTM stands for Long Short-Term Memory. It is a neural network architecture that is used for modeling time series data. LSTM has three main components:
+The forget gate: This gate decides how much information from the previous state is to be retained in the current state.
+The input gate: This gate decides how much new information from the current input is to be added to the current state.
+The output gate: This gate decides what information from the current state is to be output.
+Give some benefits of transfer learning.,Transfer learning is a machine learning technique where you use knowledge from one domain and apply it to another domain. This is usually done to accelerate the learning process or to improve performance.
+There are several benefits of transfer learning:
+Learn from smaller datasets: If you have a small dataset, you can use transfer learning to learn from a larger dataset in the same domain. This will help you to build better models.
+Learn from different domains: You can use transfer learning to learn from different domains. For example, if you want to build a computer vision model, you can use knowledge from the medical domain.
+Better performance: Transfer learning can help you to improve the performance of your models and apply it on other domains to build better models.
+Pre-trained models: If you use a pre-trained model, you can save time and resources. This is because you don’t have to train the model from scratch.
+Use of fine-tune models: You can fine-tune models using transfer learning. Also, you can adapt the model to your specific needs.
+Explain the importance of cost/loss function.,The cost/loss function is an important part of machine learning that maps a set of input parameters to a real number that represents the cost or loss. The cost/loss function is used for optimization problems. The goal of optimization is to find the set of input parameters that minimize the cost/loss function.
+Define the following terms - Epoch, Batch, and Iteration?,Epoch, batch, and iteration are all important terms in machine learning. Epoch refers to the number of times the training dataset is used to train the model;  Batch refers to the number of training samples used in one iteration; Iteration is the number of times the training algorithm is run on the training dataset.
+Explain dropouts.,Dropout is a method used to prevent the overfitting of a neural network. It refers to dropping out some neural network units. The process is similar to that of natural reproduction, where distinct genes combine to produce offspring while the other genes are dropped out instead of strengthening their co-adaptation.
+Explain vanishing gradient,As more layers are added and the distance from the final layer increases, backpropagation is not as helpful in sending information to the lower layers. As a result, the information is sent back, and the gradients start disappearing and becoming small in relation to network weights. These disappearing gradients are known as vanishing gradients.
+Explain the function of batch Gradient Descent.,Batch gradient descent is an optimization algorithm that calculates the gradient of the cost function with respect to the weights of the model for each training batch. The weights are updated in the direction that decreases the cost function.
+What is an Ensemble learning method?,Ensemble learning is a method of combining multiple models to improve predictive accuracy. These methods usually cost more to train but can provide better accuracy than a single model.
+What are some drawbacks of machine learning?,One of the biggest drawbacks of Machine learning is that it can be biased if the data used to train the algorithm is not representative of the real world. For example, if an algorithm is trained using data that is mostly from one gender or one race, it may be biased against other genders or races.
+Here are some other disadvantages of Machine Learning:
+
+Possibility of high Error
+Algorithm selection
+Data acquisition
+Time and space
+High production costs
+Lacking the skills to innovate
+Explain Sentimental analysis in NLP?,Sentiment analysis is the process of analyzing text to determine the emotional tone of the text in NLP. This can be helpful in customer service to understand how customers are feeling, or in social media to understand the general public sentiment about a topic.
+What is BFS and DFS algorithm?,Breadth-First Search (BFS) and Depth-First Search (DFS) are two algorithms used for graph traversal.
+BFS algorithm starts from the root node (or any other selected node) and visits all the nodes at the same level before moving to the next level.
+On the other hand, DFS algorithm starts from the root node (or any other selected node) and explores as far as possible along each branch before backtracking.
+Explain the difference between supervised and unsupervised learning.,Supervised learning involves training a model with labeled data, where both input features and output labels are provided. The model learns the relationship between inputs and outputs to make predictions for unseen data. Common supervised learning tasks include classification and regression.
+Unsupervised learning, on the other hand, uses unlabeled data where only input features are provided. The model seeks to discover hidden structures or patterns in the data, such as clusters or data representations. Common unsupervised learning tasks include clustering, dimensionality reduction, and anomaly detection.
+What is the text extraction process?,Text extraction is the process of extracting text from images or other sources. This can be done with OCR (optical character recognition) or by converting the text to a format that can be read by a text-to-speech system.
+What are some disadvantages of linear models?,Here are some disadvantages of using linear models -
+
+
+They can be biased if the data used to train the model is not representative of the real world.
+
+
+Linear models can also be overfit if the data used to train the model is too small.
+
+
+Linear models assume a linear relationship between the input features and the output variable, which may not hold in reality. This can lead to poor predictions and decreased model performance.
+Mention methods for reducing dimensionality.,Artificial intelligence interview questions like this can be easy and difficult at the same time as you may know the answers but not on the tip of your tongue. Hence, a quick refresher can help a lot. Reducing dimensionality refers to the reduction of the number of random variables. This can be achieved by different techniques including principal component analysis, low variance filter, missing values ratio, high correlation filter, random forest, and others.
+Explain cost function.,This is a popular AI interview question. A cost function is a scalar function that helps to identify how wrong an AI model is with regard to its ability to determine the relationship between X and Y. In other words, it tells us the neural network’s error factor.
+The neural network works better when the cost function is lower. For instance, it takes the output predicted by the neural network and the actual output and then computes how incorrect the model was in its prediction.
+So, the cost function will give a lower number if the predictions don’t differ too much from the actual values and vice-versa
+Mention hyper-parameters of ANN.,The hyper-parameters of ANN are as follows:
+Learning rate: It refers to the speed with which the network gets familiar with its parameters
+Momentum: This parameter enables coming out of the local minima and smoothening jumps during gradient descent
+The number of epochs: This parameter refers to the number of times the whole training dataset is fed to the network during training. One must increase the number of epochs until a decrease in validation accuracy is noticed, even if there is an increase in training accuracy, which is called overfitting.
+Number of hidden layers: This parameter specifies the number of layers between the input and output layers.
+Number of neurons in each hidden layer: This parameter specifies the number of neurons in each hidden layer.
+Activation functions: Activation functions are responsible for determining a neuron's output based on the weighted sum of its inputs. Widely used activation functions include Sigmoid, ReLU, Tanh, and others.
+Explain intermediate tensors. Do sessions have a lifetime?,Intermediate tensors are temporary data structures in a computational graph that store intermediate results when executing a series of operations in Artificial Intelligence, particularly in deep learning frameworks. These tensors represent the values produced during the forward pass of a neural network while processing input data before reaching the final output.
+Yes, sessions have a lifetime, which starts when the session is created and ends when the session is closed or the script is terminated. In TensorFlow 1.x, sessions were used to execute and manage operations in a computational graph. A session allowed the allocation of memory for tensor values and held necessary resources to execute the operations. In TensorFlow 2.x, sessions and computational graphs have been replaced with a more dynamic and eager execution approach, allowing for simpler and more Pythonic code.
+Explain Exploding variables.,Exploding variables are a phenomenon in which the magnitude of a variable grows rapidly over time, often leading to numerical instability and overflow errors. This can happen when a variable is repeatedly multiplied or divided by a value that is greater than 1 or less than -1. As a result, the variable's value grows exponentially or collapses to zero, causing computational problems.
+Is it possible to build a deep learning model only using linear regression?,Linear regression is a basic tool in statistical learning, but it cannot be used to build a deep learning model. Deep learning models require non-linear functions to learn complex patterns in data.
+What is the function of Hyperparameters ?,Hyperparameters are parameters that are not learned by the model. They are set by the user and used to control the model's behavior.
+What is Artificial Super Intelligence (ASI)?,An Artificial Super Intelligence system is not one that has been achieved yet. Also known as Super AI, it is a hypothetical system that can surpass human intelligence and execute any task better than a human. The concept of ASI suggests that such an AI can exceed all human intelligence. It can even take complex decisions in harsh conditions and think just like a human would, or even better, develop emotional, sensible relationships.
+What is overfitting, and how can it be prevented in an AI model?,Overfitting occurs when a model learns the training data too well, including capturing noise and random fluctuations. This often results in a model that performs poorly on unseen or validation data. Techniques to prevent overfitting include:
+
+Regularization (L1 or L2)
+Early stopping
+Cross-validation
+Using more training data
+Reducing model complexity
+What is the role of pipeline for Information extraction (IE) in NLP?,Pipelines are used in information extraction to sequentially apply a series of processing steps to input data. This allows for efficient data processing and helps avoid errors.
+What is the difference between full listing hypothesis and minimum redundancy hypothesis?,Full listing hypothesis states that all possible values of a variable should be listed in the data dictionary. Minimum redundancy hypothesis states that all values of a variable should be listed in the data dictionary, but that only the most important values should be listed multiple times.
+Mention the steps of the gradient descent algorithm.,The gradient descent algorithm helps in optimization and in finding coefficients of parameters that help minimize the cost function. The steps that help achieve this are as follows:
+Step 1: Give weights (x,y) random values and then compute the error, also called Sum of Squares Error (SSE).
+Step 2: Compute the gradient or the change in SSE when you change the value of the weights (x,y) by a small amount. This step helps us identify the direction in which we must move x and y to minimize SSE.
+Step 3: Adjust the weights with the gradients for achieving optimal values for the minimal SSE.
+Step 4: Change the weights for predicting and calculating the new error. Step 5: Repeat steps 2 and 3 till the time making more adjustments stops producing significant error reduction.
+These types of artificial intelligence interview questions help hiring managers properly guage a candidate’s expertise in this domain. Hence, you must thoroughly understand such questions and enlist all steps properly to move ahead.
+Write a function to create one-hot encoding for categorical variables in a Pandas DataFrame,
+Implement a function to calculate cosine similarity between two vectors.,
+How to handle an imbalance dataset?,There are a number of ways to handle an imbalanced dataset, such as using different algorithms, weighting the classes, or oversampling the minority class.
+Algorithm selection: Some algorithms are better suited to handle imbalanced data than others. For example, decision trees and random forests tend to work well on imbalanced data, while algorithms like logistic regression or support vector machines may struggle.
+Class weighting: By assigning higher weights to the minority class, you can make the algorithm give more importance to it during training. This can help prevent the algorithm from always predicting the majority class.
+Oversampling: You can create synthetic samples of the minority class by randomly duplicating existing samples or generating new samples based on the existing ones. This can balance the class distribution and help the algorithm learn more about the minority class.
+How do you solve the vanishing gradient problem in RNN?,The vanishing gradient problem is a difficulty encountered when training artificial neural networks using gradient-based learning methods. This problem is resolved by replacing the activation function of the network. You can use the Long Short-Term Memory (LSTM) network to solve the problem.
+It has three gates called input, forgets, and output gates. Here forget gates constantly observe what information needs to be dropped going through the network. In this way, we have short and long-term memory. So, we can transfer the information through the network and retrieve it even at the last stage to identify the context of prediction.
+Implement a function to normalize a given list of numerical values between 0 and 1.,
+Write a Python function to sort a list of numbers using the merge sort algorithm,
+Explain the purpose of Sigmoid and Softmax functions.,Sigmoid and softmax functions are used in classification problems. Sigmoid maps values to a range of 0-1, which is useful for binary classification problems. Softmax maps values to a range of 0-1 and also ensures that all values sum to 1, which is useful for multi-class classification problems.
+Implement a Python function to calculate the sigmoid activation function value for any given input.,
+Write a Python function to calculate R-squared (coefficient of determination) given true and predicted values.,
+Explain pragmatic analysis in NLP.,Pragmatic analysis is a process of analyzing text data in order to determine the speaker's intention. This is useful in many applications, such as customer service and market research. Here, the main focus is always on what was said to reconsider what is intentionally driving the various aspects of language that require real-world knowledge. It helps you to discover this intentional effect by applying a set of rules that characterize cooperative dialogues. Basically, it means abstracting the meaningful use of language in situations.
+What is the difference between collaborative and content-based filtering?,Collaborative filtering is a method of making recommendations based on the likes and dislikes of a group of people, while Content-based filtering is a method of making recommendations based on the similarity of the content.
+How is parsing achieved in NLP?,Parsing is the process of breaking down a string of text into smaller pieces, or tokens. This can be done using a regex, or a more sophisticated tool like a parser combinator. There are various techniques for parsing in NLP, including rule-based approaches, statistical approaches, and machine learning-based approaches. Some common parsing algorithms include the Earley parser, the CYK parser, and the chart parser. These algorithms use various methods such as probability models, tree-based representations, and context-free grammars to parse a text and identify its grammatical structure.
+Implement a Python function to calculate the precision and recall of a binary classifier, given true positive, false positive, true negative, and false negative values.,
+What is Limited Memory? Explain with an example?,A human brain learns from its experiences or from the past experiences it has in its memory. Just like the human brain, Limited Memory Artificial Intelligence learns from past data already in the memory and makes decisions on their behalf. But this data is stored for some specific time, and they cannot add it to their information center. Self-Driving is one of the best technology examples of Limited Memory AI. Self Driving cars can store data during driving, like how many vehicles are moving around them, vehicle speed, and the traffic lights. From their experiences, they understand how to drive properly on the road in heavy and moderate traffic. Few companies are focused on these types of technologies.
+Write a Python function to compute the Euclidean distance between two points.,
+Describe the differences between stochastic gradient descent (SGD) and mini-batch gradient descent.,Stochastic gradient descent (SGD) updates the model's weights using the gradient calculated from a single training example. It converges faster because of frequent weight updates; however, it can have a noisy convergence due to high variance in gradients.
+Mini-batch gradient descent calculates the gradient using a small batch of training examples. It strikes a balance between the computational efficiency of batch gradient descent and the faster convergence of SGD. The noise in weight updates is reduced, leading to a more stable convergence.
+Implement a function to calculate precision, recall, and F1-score given an input of actual and predicted labels.,
+How can you standardize data?,Data standardization is a technique that is mostly performed as a preprocessing step of developing ML models to formalize the range of features of an input data set.
+Understanding data: You need to understand the distribution of your data to decide which standardization technique is appropriate. For example, if the data is normally distributed, you can use z-score normalization.
+Choosing standardization technique: Standardization techniques such as z-score normalization, min-max scaling, and mean normalization can be used depending on the type of data.
+Implementation: Standardizing data can be implemented using programming languages such as Python, and R, or tools such as Excel or a data automation platform.
+Impact on model performance: Standardization can significantly impact the performance of machine learning models. Hence, it's important to standardize the data before feeding it into the model
+How to implement Naive Bayes algo in Python ?,Here's a basic implementation of Naïve Bayes Classifier in Python using the scikit-learn library. This example demonstrates the process of loading a dataset, splitting it into training and testing sets, fitting the model, and calculating its accuracy.
+Write a code to visualize data using Univariate plots.,
+How does information gain and entropy work in decision trees?,Entropy is unpredictability in the data; the more uncertainty, the higher the entropy will be. Entropy is used by information gain to make decisions. If the entropy is fewer, the information will be big.
+Information gain is used in random forests and decision trees to decide the best split. Thus, the bigger the information gain, the better the split and the shorter the entropy.
+The entropy is used to calculate the information gain of a dataset before and after a split.
+Entropy is the calculation of the probability of suspense in the data. The main purpose is to reduce entropy and increase information gain. The feature having the maximum information is considered essential by the algorithm and is used for training the model.
+Write a code for random forest regression in Python.,Here's a basic implementation of the Random Forest Regressor in Python using the scikit-learn library. This example demonstrates the process of loading a dataset, splitting it into training and testing sets, fitting the model, and calculating the predictions.
+Explain the use of kernel tricks?,Kernel tricks are a technique used in Artificial Intelligence, particularly in machine learning algorithms, to transform a non-linearly separable problem into a linearly separable one. They are commonly used in Support Vector Machines (SVMs) and other kernel-based algorithms for solving complex classification or regression tasks.
+The main idea behind kernel tricks is to map the input data from a lower-dimensional space to a higher-dimensional space, in which the data points become linearly separable. This mapping is done using a mathematical function called the kernel function.
+Write a code for K-nearest algorithm in Python.,Here's a basic implementation of the K-Nearest Neighbors (KNN) algorithm in Python using the scikit-learn library. This example demonstrates the process of loading a dataset, splitting it into training and testing sets, fitting the model, and calculating its accuracy.
+How to calculate Gini coefficient?,The Gini coefficient formula is as follows:
+
+Here are a few steps using which you can calculate the Gini coefficient:
+Organize the data into a table with the category head mentioned below
+
+All the rows must organize from the poorest to the richest.
+Fill the '% of Population that is richer' column by adding all terms in 'Fraction of Population' below that row.
+Calculate the Score for each of the rows. The formula for the Score is:
+Score = Fraction of Income * (Fraction of Population + 2 * % of Population that is richer).
+Next, add all the terms in the ‘Score’ column. Let us call it ‘Sum.’
+Using the formula calculate the Gini coefficient: = 1 –Sum.
+What is Python? Enlist some of its benefits.,This basic Python interview question warms up the candidate for the interview and is important even for senior Python positions. How you tackle this question displays your experience and expertise with the programming language. Python is a high-level, object-oriented programming language that enhances user interaction through objects, modules, and automatic memory. Due to Python being a cross-platform programming language, it can run on a myriad of different Operating Systems such as Windows, Linux, Macintosh, and UNIX. The language finds widespread use in data science, artificial intelligence, and machine learning because of its in-built data structures. Despite being a high-level language, the simplicity of its syntax makes Python a  very easy language to grasp. Moreover, because Python supports various modules and packages, making applications using Python becomes extremely easy as less code is required.
+Can you tell us if Python is object-oriented or functional programming?,Another basic Python interview question that tries to gauge the depth of your understanding of the language. Python is considered to be a multi-paradigm language, which means it supports multiple programming techniques including object-oriented and functional programming. Since most Python tools have bundled up data and functions, it is considered to be object-oriented. The functions of Python are important for data scientists and programmers alike because Python supports both object-oriented and functional programming.
+What rules govern local and global variables in Python?,In Python, variables are used for labeling and storing data. There are mainly two types of variables in Python - local and global. When a variable is not defined within a function, therefore is referenced within that function, its scope is global and it is called a global variable. When a variable is defined within a function, its scope is local and it is called a local variable. Additionally, using the keyword, ‘global’, you can explicitly declare a variable, declared within a function, as a global variable. Since the local variable is defined within a function, when accessed outside that function, it will return an error. Global variables, on the other hand, can be accessed throughout the program.
+Can you tell us what is slicing in Python?,Slicing in Python is about dividing a given string to obtain sub-strings. If you wish to access sequences such as lists, tuples, and strings, slicing is the feature that will help you do so. You can select a specific range or part of these sequences using slicing. You can change or delete parts of sequences like lists that can be changed. Slicing in Python helps you write clean, precise, and readable code. You can perform slicing in Python by either extending indexing or using the slice() Constructor.
+What is namespace in Python?,This Python interview question delves somewhat deeper into the programming language. In order to give a distinct and unique name to every single object, Python has a system called, namespace. The value of the object, which can be a variable or a method, is connected to the unique name assigned to that object. While searching for the object, the key, which corresponds to the unique name, is mapped with the value assigned to the related object.. Python has its namespace maintained like a Python dictionary.
+What is pass in Python?,Pass is a placeholder for the future code in Python. When the pass statement is executed, no operation takes place. It basically depicts a blank space, however, in places, like loops, class definitions, conditional statements such as: if statements, or even in function definitions, where empty code is not permitted, a pass can be used to prevent an error. The pass statement is not ignored by the Python interpreter, as it returns a null value, therefore it is different from a comment, which is ignored by the Python interpreter. This Python interview question can display your alertness and future orientation to the interviewer.
+Can you explain what is unittest in Python?,Unittest or unit testing is a way to test various codes in Python to ascertain whether they can be used safely or not. This framework is in-built in Python and helps to ensure the quality of code in Python. All the criteria, that are found to be useful and practical during the development process, are coded into the test script by the Python developer. This is done to ensure unit preciseness and accuracy. If any criterion fails, it is reported in the summary. This Python interview question can help the interviewer assess whether you are careful and stringent where the safety of code is concerned.
+What are negative indexes in Python?,All programming languages use positive indexing in the arrays to locate and access elements. Python is the only language that allows both positive and negative indexing in arrays. A positive index would start from the first element of an array and go forward i.e. the first element would be 0, the second element would be 1, and so on. In negative indexing, the last element of the array would have the index -1, the penultimate element would be -2, and so on.
+For example,
+arr = [a, b, c, d, e]
+print(arr[-1])
+print(arr[-2])
+Output
+e
+d
+What are ODBC modules in Python?,The Microsoft Open Database Connectivity is an interface for the C programming language. It is the standard for all APIs using database C. If you use a Python ODBC interface with the standard ODBC drivers that ship with most databases, you can likely connect your Python application with most databases in the market. The different Python ODBC modules are pyodbc, PythonWin ODBC, and MxODBC.
+How will you send an email from a Python Script?,You can use a secure connection with the extensions SMTP_SSL() and .starttls(). Following this step, use the built-in smtplib library module to define the SMTP client session object. This object can then be used to send the email message using Python Script. To send the emails you can use HTML content, as well as, the attachments with the email package. If you use a CSV file that contains contact data, you can even send a number of personalized emails. If you add a few lines of code to your Gmail account, you can configure the Yagmail package to send emails. Through this Python interview question, interviewers can understand your knack for applying Python for different uses.
+What is PEP 8 and its importance?,PEP means Python Enhancement Proposal, is an official design document that provides information for the Python community. It typically documents the style guidelines for Python code
+What are the key features of Python?,Some of its features are:
+
+Dynamically typed
+An interpreted language
+Object-oriented
+Coding is quick
+What does it mean to be dynamically typed in Python?,It means Python type-checks data types during execution. This implies that the Python interpreter type checks as the code runs.
+What is a scope in Python?,A scope is a block of code in which an object is relevant. Examples of scopes in Python are local scope, module-level scope, outermost scope, and global scope.
+How can Python script be executable on Unix?,The script file must begin with #!/usr/bin/env Python. This means that the first line must always begin with ‘#’.
+What is Docstring in Python?,A Docstring is a multiline string used to document a specific code segment. Therefore, developers using Python can easily understand what the code does without having to study the implementation details.
+What is init in Python?,It is a constructor method automatically called to allocate memory when a new instance or object is created, and classes in Python have an init associated with them which initializes attributes declared in the class when an object of that class is created.
+What are lists and tuples in Python?,These are sequence data types used in a collection of objects. Both have different data types: lists are represented with square brackets and tuples are represented with parentheses.
+Example of list:
+[1,2,3,4,5,6,7]
+Example of tuples:
+(13, 90, 11)
+What is the difference between Arrays and lists in Python?,In order to use arrays in Python, one must import either an array module or a NumPy package, whereas lists are already built into the language and do not require declaration.
+What is Self-used for in Python?,It is used to represent the instance of the class. This is because in Python, the ‘@’ syntax is not used to refer to the instance attributes.
+What are the major two-loop statements in Python?,While and For are the major two-loop statements in Python.
+Example:
+What are Decorators in Python?,Decorator is a very useful tool in Python that is used by programmers to alter the changes in the behavior of classes and functions.
+What built-in types are available in Python?,The built-in types in Python include:
+
+Strings
+Integer
+Complex numbers
+Floating-point numbers
+Built-in functions
+How do you differentiate between .py and .pc files in Python?,A file in Python with extension “.py” are source files while with extension “.pyc”  are compiled bytecode files generated by the compiler.
+How do you create a Python function?,In Python, functions can be created/defined using the def statement. To create these functions, firstly we declare them and name them. Then, we start a function definition.
+How does a function return values in Python?,They do so using the return statement. The statement can be used inside a function to refer the result back to the caller. The return statement has the return keyword and the optional return value. This return value can be used on any Python object.
+What commands are used to delete Python files?,OS.unlink(filename) or OS.remove(filename)
+What are modules in Python?,This is a file that includes a set of various functions and statements that can be added to an application. They are basically of two types:
+
+Built-in Modules
+User-defined Modules
+What is a Python PATH?,This is an environment variable used to import a variable and check for the presence of variables present in different directories.
+What is a Package in Python?,A package is a collection of different related modules. It normally contains a file with the name init . py.
+Create a module in Python.,Creating a module in Python is fairly simple.
+
+
+First, open a text editor and create a new file.
+
+
+Add the code you want to include in the module. You can include various functions and classes, as well as global variables.
+
+
+Save the file with a .py extension (e.g. myModule.py).
+
+
+Import the module using the import statement.
+
+
+Use the module's functions and classes in your program.
+What is lambda in Python?,This is the small anonymous function used in Python as an inline function. An example of lambda function is:
+lambda arguments : expression
+How memory can be managed in Python?,In Python, the memory is managed using the Python Memory Manager. The manager allocates memory in the form of a private heap space dedicated to Python. All objects are now stored in this Hype and due to its private feature, it is restricted from the programmer.
+What are keywords in Python?,These are reserved words with special meanings used to define types of variables. However, they cannot be used for function names or variables. Examples of keywords are: Break, And, Or, If, Elif, For, While, etc.
+Is Python a case-sensitive language?,Yes, it is a case-sensitive language.
+What are literals in Python?,Literals are used to represent fixed values for primitive data types in a Python source code.
+What is Type Conversion in Python?,This is the conversion of one data from one type to another.
+What do you think is the use of dir () function in Python?,The dir() function can be accessed from the Python interpreter, and it is used to access built-in functions of modules and packages. It is used to display the defined symbols.
+How can you remove values from an array in Python?,They can be removed using the remove() or pop() function.
+Is it possible for a function not to have a return statement and is it valid?,Yes. It is still valid and such a function will return a None object. This is because the end of a function is defined by the block of code that is executed and not the explicit keyword.
+When should Python use triple quotes as a delimiter?,They can be used to enclose a string that has a mix of single and double or used when spanning multiple lines.
+What is the main role of the init method? Give a code block example.,The role of the init method is to initialize the values of instance members for objects.
+Example:
+How do you convert string to lowercase in Python?,The lower () function, is used to convert string to lowercase
+Example:
+How do you use the split method in Python?,The split method is used to separate strings in Python
+Example:
+What is a Try Block?,This is a block that is preceded by the try keyword. The try blocks are used to execute a task, and if any errors occur while the execution, then what should happen is declared in except.
+What are generators in Python?,Generators are ways of implementing an effective representation of iterators and it is the only normal function that provides expression in the function. Thus, this enables Python developers to create iterators in a quick and clean way.
+How can a module written in Python be accessed from C?,We can simply do this:
+Module == PyImport_ImportModule("");
+How a list can be reversed in Python?,A built-in function named reverse() is used in Python to reverse lists.
+Example:
+What are ways to combine dataframes in Python?,Ways to do this include:
+By joining = combining them on a common column
+By stacking two dataframes vertically
+By stacking two dataframes horizontally
+What new features were added in Python 3.11.1?,Some of the new features in the Python 3.11.1 version are:
+
+Fine-Grained Error Locations in Tracebacks
+Support for Parsing TOML in the Standard Library
+Introduce task groups to asyncio
+Up to 10-60% faster than Python 3.10
+What is a PIP?,PIP represents Python Installer Package. It is a command-line tool used for installing different modules in Python.
+Why is finalize used in Python?,It is used to free up unwanted resources and clear up waste before invoking the garbage collector.
+Differentiate between override and new modifiers.,The override modifier is used for overriding a base class function within the child class while the new modifier is used to inform the compiler to use the new implementation and not the base class function.
+In Python, what would you do to create an empty class?,In Python, an empty class is a class that does not have any members defined within it. To create this in Python, we can use the pass keyword.
+Do you think you can call the parent class without its instance creation?,Of course, yes. It can be called if it is a static method in the base class.
+In what ways can parent members in a child class be accessed?,Parent members in a child class can be accessed in Python by using the super() keyword. This method allows the child class to access the parent class's methods and attributes.
+What are Pandas in Python?,Pandas is an open-sourced library used in data manipulation when high performance is required. It is multidimensional data and was derived from the phrase ‘Panel Data’. It is used for loading, manipulating, preparing, modeling, and analyzing data.
+What is a NumPy?,NumPy is a Python-based, versatile, easy-to-use package for processing arrays. It stands for Numerical Python.
+Why is NumPy preferred over Python lists?,NumPy is able to solve problems related to vectorized operations that are difficult for Python lists. Additionally, as the dimensions of a NumPy array grow, it is capable of processing operations up to 30 times faster than Python lists.
+How can we efficiently load data from a text file?,By using the  numpy.loadtxt() method, which automatically reads the header of the file and footer lines and brings up a comment if applicable.
+What is reindexing in Pandas?,Reindexing in Pandas refers to the process of creating a new object with the data conformed to a new index.
+How can you copy an object in Python?,We use the copy module to copy objects in Python. This can be done by shallow copy or deep copying.
+What is shallow and deep copying in Python?,In shallow copying, the copied object creates an exact copy of the values in the original object, while in deep copying, it duplicates the objects referenced by the source object.
+What are Pickling?,Pickling is a serialization process in Python. It is used to serialize objects into the byte system and dump them as a file in a memory.
+How can you define Unpickling in Python?,Unpickling is the deserialization of the byte system to recreate objects stored in the file and loads the object to memory.
+What function is used for Pickling and Unpickling?,Pickling: pickle.dump()
+Unpickling: pickle.load()
+What are some types of Type Conversion in Python?,Type conversion is the process of converting a data type into another data type in Python. Some types of type conversions are listed below:
+hex(), set(), list(), tuple(), float(), int(), ord(), etc
+Give an example of a lambda function.,Example:
+In Python, what is Polymorphism?,In Python, Polymorphism makes us understand how to perform a task in different ways in Python. It is useful in providing flexibility in task processes. Through polymorphism, a class's objects can invoke another class's methods, allowing for code reuse. Polymorphism also allows subclasses to override the methods of a superclass, allowing for further code reuse. This is especially useful in object-oriented programming, as it allows for inheritance that allows code to be written once and reused multiple times.
+How would you define the Swapcase () in Python?,It is used to convert the existing case of a string from lowercase to uppercase or vice versa.
+Example:
+What does [::-1] do in Python and give an example?,It is used to reverse the order of a sequence or an array
+Example:
+Explain database connection in Python Flask.,A SQLite3 command installation is needed to initiate and create the database in Flask. Using Flask, the database can be requested in three ways:
+teardown_request() method: This is called in cases where the responses are not assured and the exception is raised.
+after_request() method: This is called after requesting the database and also sending the response to the client.
+before_request(): This method allows the database to be requested before only without passing arguments.
+What is the Dogpile effect?,This is the occurrence of an event when the website is hit with more requests by the client at a time and the cache expires. It can be prevented using the semaphore lock.
+Are multiple inheritances supported in Python?,Yes. Multiple inheritances are supported in Python because it enables flexibility to inherit multiple base classes in a child class. An example is:
+Does Python make use of access specifiers?,No. Python does not use access specifiers. However, Python has a way of prefixing the method variable, or function by using a single or double underscore to act like the behavior of private and protected access specifiers.
+How do you create a constructor in Python?,We use the init method to create a constructor in Python and an example is given below:
+Example:
+How to save an image in Python locally when we know the URL address?,The code below can be used for this:
+Explain how the join() function in Python?,The join() function is used to provide a flexible way to concatenate strings. The join() is a string method that returns a string value.
+An example is given below:
+How can you identify and deal with missing values in a dataframe?,This can be done by replacing it with the mean value of the column
+df[‘column_name’] =
+df[‘column_name’].fillna((df[‘column_name’].mean()))
+What is the use of manage.py in Python?,It is a file automatically created inside each Django project, as a command-line utility that allows users to interact with any Django project in Python in different ways.
+Explain the shuffle method and give an example.,The shuffle method is used to randomize the items in an array. The shuffle method randomizes elements in an array each time it is called and results in different outputs.
+Example:
+What method can be used to generate random numbers in Python?,The random module is used as the standard module to generate a random number in Python. The method employed is defined as:
+import random
+random.random
+What does *args, **kwargs mean in Python?,*args in Python allows for a variable number of non-keyworded arguments to be passed to a function, with the operations performed on them defined by the function. On the other hand, **kwargs allows for a variable number of keyworded arguments to be passed to a function, which will perform dictionary operations on them.
+Is Flask an MVC model? If true, justify this using the MVC pattern.,A flask is basically minimalistic that behaves like the MVC framework. Therefore, MVC would be best for the flask and an example is given below:
+How can we check if all characters in a string are alphanumeric?,This can be done using the isalnum() method that returns true in case the string has only alphanumeric characters or the  match() method from the re (regex) module. But here, we are going to show an example for the isalnum() method:
+"dkac1961".isalnum() #Output: True
+"qbaz#@12".isalnum() #Output: False
+What are some of the most used built-in modules in Python?,The Python modules are files using the Python code which can be functions, classes, or variables. They are followed by the .py extension and some of them are:
+
+JSON
+re
+sys
+math
+os
+random
+datetime
+What are the tools for debugging and performing static analysis in Python?,PyChecker and Pylint are tools used for static analysis and listing respectively. Pylint helps to check for the module’s coding standards and support the different plugins as to create customized features as per requirements. PyChecker helps to find bugs in the Python source code files and brings to attention the code issues.
+When will the else part of try-except-else be executed?,When no exception occurs.
+Write a code to swap two numbers in Python.,
+Show code examples of deep and shallow copying.,
+Write a code to reverse multiple values from functions.,
+What are the steps to create 3D, 2D, and 1D arrays?,
+Write a code to check whether two words are anagrams or not.,
+What will be the output of the following code?,The answer will be:
+invalid code
+Write a code to test for the mode in a list of numbers.,
+Show how to access the dataset of a publicly shared spreadsheet in the format of CSV stored in Google Drive.,Using the StringIO module from the io module to read and then using the Pandas library:
+Write a code to add two integers without using the ‘+’ operator when the numbers are greater than zero.,
+Write a code that is given a sequence of numbers and it checks if the numbers are unique.,
+Write a program that solves a given question with constants K, L, M, N, O, P.,
+Write a program to convert the date format from yyyy-mm-dd to dd-mm-yyyy.,
+Write a program in Python to create a Fibonacci series.,
+Write a code to create a single string from elements in a list.,
+Write a program to check if a number is a prime.,
+Write a program to calculate the median in Python using the NumPy arrays.,
+Write a program to execute the bubble sort algorithm.,

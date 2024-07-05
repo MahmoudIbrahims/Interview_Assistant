@@ -1,0 +1,185 @@
+What is Python? Enlist some of its benefits.,This basic Python interview question warms up the candidate for the interview and is important even for senior Python positions. How you tackle this question displays your experience and expertise with the programming language. Python is a high-level, object-oriented programming language that enhances user interaction through objects, modules, and automatic memory. Due to Python being a cross-platform programming language, it can run on a myriad of different Operating Systems such as Windows, Linux, Macintosh, and UNIX. The language finds widespread use in data science, artificial intelligence, and machine learning because of its in-built data structures. Despite being a high-level language, the simplicity of its syntax makes Python a  very easy language to grasp. Moreover, because Python supports various modules and packages, making applications using Python becomes extremely easy as less code is required.
+Can you tell us if Python is object-oriented or functional programming?,Another basic Python interview question that tries to gauge the depth of your understanding of the language. Python is considered to be a multi-paradigm language, which means it supports multiple programming techniques including object-oriented and functional programming. Since most Python tools have bundled up data and functions, it is considered to be object-oriented. The functions of Python are important for data scientists and programmers alike because Python supports both object-oriented and functional programming.
+What rules govern local and global variables in Python?,In Python, variables are used for labeling and storing data. There are mainly two types of variables in Python - local and global. When a variable is not defined within a function, therefore is referenced within that function, its scope is global and it is called a global variable. When a variable is defined within a function, its scope is local and it is called a local variable. Additionally, using the keyword, ‘global’, you can explicitly declare a variable, declared within a function, as a global variable. Since the local variable is defined within a function, when accessed outside that function, it will return an error. Global variables, on the other hand, can be accessed throughout the program.
+Can you tell us what is slicing in Python?,Slicing in Python is about dividing a given string to obtain sub-strings. If you wish to access sequences such as lists, tuples, and strings, slicing is the feature that will help you do so. You can select a specific range or part of these sequences using slicing. You can change or delete parts of sequences like lists that can be changed. Slicing in Python helps you write clean, precise, and readable code. You can perform slicing in Python by either extending indexing or using the slice() Constructor.
+What is namespace in Python?,This Python interview question delves somewhat deeper into the programming language. In order to give a distinct and unique name to every single object, Python has a system called, namespace. The value of the object, which can be a variable or a method, is connected to the unique name assigned to that object. While searching for the object, the key, which corresponds to the unique name, is mapped with the value assigned to the related object.. Python has its namespace maintained like a Python dictionary.
+What is pass in Python?,Pass is a placeholder for the future code in Python. When the pass statement is executed, no operation takes place. It basically depicts a blank space, however, in places, like loops, class definitions, conditional statements such as: if statements, or even in function definitions, where empty code is not permitted, a pass can be used to prevent an error. The pass statement is not ignored by the Python interpreter, as it returns a null value, therefore it is different from a comment, which is ignored by the Python interpreter. This Python interview question can display your alertness and future orientation to the interviewer.
+Can you explain what is unittest in Python?,Unittest or unit testing is a way to test various codes in Python to ascertain whether they can be used safely or not. This framework is in-built in Python and helps to ensure the quality of code in Python. All the criteria, that are found to be useful and practical during the development process, are coded into the test script by the Python developer. This is done to ensure unit preciseness and accuracy. If any criterion fails, it is reported in the summary. This Python interview question can help the interviewer assess whether you are careful and stringent where the safety of code is concerned.
+What are negative indexes in Python?,All programming languages use positive indexing in the arrays to locate and access elements. Python is the only language that allows both positive and negative indexing in arrays. A positive index would start from the first element of an array and go forward i.e. the first element would be 0, the second element would be 1, and so on. In negative indexing, the last element of the array would have the index -1, the penultimate element would be -2, and so on.
+For example,
+arr = [a, b, c, d, e]
+print(arr[-1])
+print(arr[-2])
+Output
+e
+d
+What are ODBC modules in Python?,The Microsoft Open Database Connectivity is an interface for the C programming language. It is the standard for all APIs using database C. If you use a Python ODBC interface with the standard ODBC drivers that ship with most databases, you can likely connect your Python application with most databases in the market. The different Python ODBC modules are pyodbc, PythonWin ODBC, and MxODBC.
+How will you send an email from a Python Script?,You can use a secure connection with the extensions SMTP_SSL() and .starttls(). Following this step, use the built-in smtplib library module to define the SMTP client session object. This object can then be used to send the email message using Python Script. To send the emails you can use HTML content, as well as, the attachments with the email package. If you use a CSV file that contains contact data, you can even send a number of personalized emails. If you add a few lines of code to your Gmail account, you can configure the Yagmail package to send emails. Through this Python interview question, interviewers can understand your knack for applying Python for different uses.
+What is PEP 8 and its importance?,PEP means Python Enhancement Proposal, is an official design document that provides information for the Python community. It typically documents the style guidelines for Python code
+What are the key features of Python?,Some of its features are:
+
+Dynamically typed
+An interpreted language
+Object-oriented
+Coding is quick
+What does it mean to be dynamically typed in Python?,It means Python type-checks data types during execution. This implies that the Python interpreter type checks as the code runs.
+What is a scope in Python?,A scope is a block of code in which an object is relevant. Examples of scopes in Python are local scope, module-level scope, outermost scope, and global scope.
+How can Python script be executable on Unix?,The script file must begin with #!/usr/bin/env Python. This means that the first line must always begin with ‘#’.
+What is Docstring in Python?,A Docstring is a multiline string used to document a specific code segment. Therefore, developers using Python can easily understand what the code does without having to study the implementation details.
+What is init in Python?,It is a constructor method automatically called to allocate memory when a new instance or object is created, and classes in Python have an init associated with them which initializes attributes declared in the class when an object of that class is created.
+What are lists and tuples in Python?,These are sequence data types used in a collection of objects. Both have different data types: lists are represented with square brackets and tuples are represented with parentheses.
+Example of list:
+[1,2,3,4,5,6,7]
+Example of tuples:
+(13, 90, 11)
+What is the difference between Arrays and lists in Python?,In order to use arrays in Python, one must import either an array module or a NumPy package, whereas lists are already built into the language and do not require declaration.
+What is Self-used for in Python?,It is used to represent the instance of the class. This is because in Python, the ‘@’ syntax is not used to refer to the instance attributes.
+What are the major two-loop statements in Python?,While and For are the major two-loop statements in Python.
+Example:
+What are Decorators in Python?,Decorator is a very useful tool in Python that is used by programmers to alter the changes in the behavior of classes and functions.
+What built-in types are available in Python?,The built-in types in Python include:
+
+Strings
+Integer
+Complex numbers
+Floating-point numbers
+Built-in functions
+How do you differentiate between .py and .pc files in Python?,A file in Python with extension “.py” are source files while with extension “.pyc”  are compiled bytecode files generated by the compiler.
+How do you create a Python function?,In Python, functions can be created/defined using the def statement. To create these functions, firstly we declare them and name them. Then, we start a function definition.
+How does a function return values in Python?,They do so using the return statement. The statement can be used inside a function to refer the result back to the caller. The return statement has the return keyword and the optional return value. This return value can be used on any Python object.
+What commands are used to delete Python files?,OS.unlink(filename) or OS.remove(filename)
+What are modules in Python?,This is a file that includes a set of various functions and statements that can be added to an application. They are basically of two types:
+
+Built-in Modules
+User-defined Modules
+What is a Python PATH?,This is an environment variable used to import a variable and check for the presence of variables present in different directories.
+What is a Package in Python?,A package is a collection of different related modules. It normally contains a file with the name init . py.
+Create a module in Python.,Creating a module in Python is fairly simple.
+
+
+First, open a text editor and create a new file.
+
+
+Add the code you want to include in the module. You can include various functions and classes, as well as global variables.
+
+
+Save the file with a .py extension (e.g. myModule.py).
+
+
+Import the module using the import statement.
+
+
+Use the module's functions and classes in your program.
+What is lambda in Python?,This is the small anonymous function used in Python as an inline function. An example of lambda function is:
+lambda arguments : expression
+How memory can be managed in Python?,In Python, the memory is managed using the Python Memory Manager. The manager allocates memory in the form of a private heap space dedicated to Python. All objects are now stored in this Hype and due to its private feature, it is restricted from the programmer.
+What are keywords in Python?,These are reserved words with special meanings used to define types of variables. However, they cannot be used for function names or variables. Examples of keywords are: Break, And, Or, If, Elif, For, While, etc.
+Is Python a case-sensitive language?,Yes, it is a case-sensitive language.
+What are literals in Python?,Literals are used to represent fixed values for primitive data types in a Python source code.
+What is Type Conversion in Python?,This is the conversion of one data from one type to another.
+What do you think is the use of dir () function in Python?,The dir() function can be accessed from the Python interpreter, and it is used to access built-in functions of modules and packages. It is used to display the defined symbols.
+How can you remove values from an array in Python?,They can be removed using the remove() or pop() function.
+Is it possible for a function not to have a return statement and is it valid?,Yes. It is still valid and such a function will return a None object. This is because the end of a function is defined by the block of code that is executed and not the explicit keyword.
+When should Python use triple quotes as a delimiter?,They can be used to enclose a string that has a mix of single and double or used when spanning multiple lines.
+What is the main role of the init method? Give a code block example.,The role of the init method is to initialize the values of instance members for objects.
+Example:
+How do you convert string to lowercase in Python?,The lower () function, is used to convert string to lowercase
+Example:
+How do you use the split method in Python?,The split method is used to separate strings in Python
+Example:
+What is a Try Block?,This is a block that is preceded by the try keyword. The try blocks are used to execute a task, and if any errors occur while the execution, then what should happen is declared in except.
+What are generators in Python?,Generators are ways of implementing an effective representation of iterators and it is the only normal function that provides expression in the function. Thus, this enables Python developers to create iterators in a quick and clean way.
+How can a module written in Python be accessed from C?,We can simply do this:
+Module == PyImport_ImportModule("");
+How a list can be reversed in Python?,A built-in function named reverse() is used in Python to reverse lists.
+Example:
+What are ways to combine dataframes in Python?,Ways to do this include:
+By joining = combining them on a common column
+By stacking two dataframes vertically
+By stacking two dataframes horizontally
+What new features were added in Python 3.11.1?,Some of the new features in the Python 3.11.1 version are:
+
+Fine-Grained Error Locations in Tracebacks
+Support for Parsing TOML in the Standard Library
+Introduce task groups to asyncio
+Up to 10-60% faster than Python 3.10
+What is a PIP?,PIP represents Python Installer Package. It is a command-line tool used for installing different modules in Python.
+Why is finalize used in Python?,It is used to free up unwanted resources and clear up waste before invoking the garbage collector.
+Differentiate between override and new modifiers.,The override modifier is used for overriding a base class function within the child class while the new modifier is used to inform the compiler to use the new implementation and not the base class function.
+In Python, what would you do to create an empty class?,In Python, an empty class is a class that does not have any members defined within it. To create this in Python, we can use the pass keyword.
+Do you think you can call the parent class without its instance creation?,Of course, yes. It can be called if it is a static method in the base class.
+In what ways can parent members in a child class be accessed?,Parent members in a child class can be accessed in Python by using the super() keyword. This method allows the child class to access the parent class's methods and attributes.
+What are Pandas in Python?,Pandas is an open-sourced library used in data manipulation when high performance is required. It is multidimensional data and was derived from the phrase ‘Panel Data’. It is used for loading, manipulating, preparing, modeling, and analyzing data.
+What is a NumPy?,NumPy is a Python-based, versatile, easy-to-use package for processing arrays. It stands for Numerical Python.
+Why is NumPy preferred over Python lists?,NumPy is able to solve problems related to vectorized operations that are difficult for Python lists. Additionally, as the dimensions of a NumPy array grow, it is capable of processing operations up to 30 times faster than Python lists.
+How can we efficiently load data from a text file?,By using the  numpy.loadtxt() method, which automatically reads the header of the file and footer lines and brings up a comment if applicable.
+What is reindexing in Pandas?,Reindexing in Pandas refers to the process of creating a new object with the data conformed to a new index.
+How can you copy an object in Python?,We use the copy module to copy objects in Python. This can be done by shallow copy or deep copying.
+What is shallow and deep copying in Python?,In shallow copying, the copied object creates an exact copy of the values in the original object, while in deep copying, it duplicates the objects referenced by the source object.
+What are Pickling?,Pickling is a serialization process in Python. It is used to serialize objects into the byte system and dump them as a file in a memory.
+How can you define Unpickling in Python?,Unpickling is the deserialization of the byte system to recreate objects stored in the file and loads the object to memory.
+What function is used for Pickling and Unpickling?,Pickling: pickle.dump()
+Unpickling: pickle.load()
+What are some types of Type Conversion in Python?,Type conversion is the process of converting a data type into another data type in Python. Some types of type conversions are listed below:
+hex(), set(), list(), tuple(), float(), int(), ord(), etc
+Give an example of a lambda function.,Example:
+In Python, what is Polymorphism?,In Python, Polymorphism makes us understand how to perform a task in different ways in Python. It is useful in providing flexibility in task processes. Through polymorphism, a class's objects can invoke another class's methods, allowing for code reuse. Polymorphism also allows subclasses to override the methods of a superclass, allowing for further code reuse. This is especially useful in object-oriented programming, as it allows for inheritance that allows code to be written once and reused multiple times.
+How would you define the Swapcase () in Python?,It is used to convert the existing case of a string from lowercase to uppercase or vice versa.
+Example:
+What does [::-1] do in Python and give an example?,It is used to reverse the order of a sequence or an array
+Example:
+Explain database connection in Python Flask.,A SQLite3 command installation is needed to initiate and create the database in Flask. Using Flask, the database can be requested in three ways:
+teardown_request() method: This is called in cases where the responses are not assured and the exception is raised.
+after_request() method: This is called after requesting the database and also sending the response to the client.
+before_request(): This method allows the database to be requested before only without passing arguments.
+What is the Dogpile effect?,This is the occurrence of an event when the website is hit with more requests by the client at a time and the cache expires. It can be prevented using the semaphore lock.
+Are multiple inheritances supported in Python?,Yes. Multiple inheritances are supported in Python because it enables flexibility to inherit multiple base classes in a child class. An example is:
+Does Python make use of access specifiers?,No. Python does not use access specifiers. However, Python has a way of prefixing the method variable, or function by using a single or double underscore to act like the behavior of private and protected access specifiers.
+How do you create a constructor in Python?,We use the init method to create a constructor in Python and an example is given below:
+Example:
+How to save an image in Python locally when we know the URL address?,The code below can be used for this:
+Explain how the join() function in Python?,The join() function is used to provide a flexible way to concatenate strings. The join() is a string method that returns a string value.
+An example is given below:
+How can you identify and deal with missing values in a dataframe?,This can be done by replacing it with the mean value of the column
+df[‘column_name’] =
+df[‘column_name’].fillna((df[‘column_name’].mean()))
+What is the use of manage.py in Python?,It is a file automatically created inside each Django project, as a command-line utility that allows users to interact with any Django project in Python in different ways.
+Explain the shuffle method and give an example.,The shuffle method is used to randomize the items in an array. The shuffle method randomizes elements in an array each time it is called and results in different outputs.
+Example:
+What method can be used to generate random numbers in Python?,The random module is used as the standard module to generate a random number in Python. The method employed is defined as:
+import random
+random.random
+What does *args, **kwargs mean in Python?,*args in Python allows for a variable number of non-keyworded arguments to be passed to a function, with the operations performed on them defined by the function. On the other hand, **kwargs allows for a variable number of keyworded arguments to be passed to a function, which will perform dictionary operations on them.
+Is Flask an MVC model? If true, justify this using the MVC pattern.,A flask is basically minimalistic that behaves like the MVC framework. Therefore, MVC would be best for the flask and an example is given below:
+How can we check if all characters in a string are alphanumeric?,This can be done using the isalnum() method that returns true in case the string has only alphanumeric characters or the  match() method from the re (regex) module. But here, we are going to show an example for the isalnum() method:
+"dkac1961".isalnum() #Output: True
+"qbaz#@12".isalnum() #Output: False
+What are some of the most used built-in modules in Python?,The Python modules are files using the Python code which can be functions, classes, or variables. They are followed by the .py extension and some of them are:
+
+JSON
+re
+sys
+math
+os
+random
+datetime
+What are the tools for debugging and performing static analysis in Python?,PyChecker and Pylint are tools used for static analysis and listing respectively. Pylint helps to check for the module’s coding standards and support the different plugins as to create customized features as per requirements. PyChecker helps to find bugs in the Python source code files and brings to attention the code issues.
+When will the else part of try-except-else be executed?,When no exception occurs.
+Write a code to swap two numbers in Python.,
+Show code examples of deep and shallow copying.,
+Write a code to reverse multiple values from functions.,
+What are the steps to create 3D, 2D, and 1D arrays?,
+Write a code to check whether two words are anagrams or not.,
+What will be the output of the following code?,The answer will be:
+invalid code
+Write a code to test for the mode in a list of numbers.,
+Show how to access the dataset of a publicly shared spreadsheet in the format of CSV stored in Google Drive.,Using the StringIO module from the io module to read and then using the Pandas library:
+Write a code to add two integers without using the ‘+’ operator when the numbers are greater than zero.,
+Write a code that is given a sequence of numbers and it checks if the numbers are unique.,
+Write a program that solves a given question with constants K, L, M, N, O, P.,
+Write a program to convert the date format from yyyy-mm-dd to dd-mm-yyyy.,
+Write a program in Python to create a Fibonacci series.,
+Write a code to create a single string from elements in a list.,
+Write a program to check if a number is a prime.,
+Write a program to calculate the median in Python using the NumPy arrays.,
+Write a program to execute the bubble sort algorithm.,
