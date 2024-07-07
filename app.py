@@ -22,7 +22,7 @@ data = open_file_text(FILE_PATH)
 sent_token = sent_tokenizatian(data)
 word_token = word_tokenizatian(data)
 
-greet_input = ['hey', 'helo', 'greetings', 'sup', 'whats up', 'hi']
+greet_input = ['hey', 'hello', 'greetings', 'sup', 'whats up', 'hi']
 greet_response = ['hey dear', 'helo dear', 'hi there', 'whats going one', 'I am glad! you are talking to me']
 
 Score = []
