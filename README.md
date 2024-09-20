@@ -16,8 +16,8 @@ This repository contains a Streamlit-based application designed for interview te
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/interview-testing-chatbot.git
-    cd interview-testing-chatbot
+    git clone https://github.com/your-username/interview-testing.git
+    cd interview-testing
     ```
 
 2. **Install Dependencies**:
