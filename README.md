@@ -16,8 +16,8 @@ This repository contains a Streamlit-based application designed for interview te
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/interview-testing.git
-    cd interview-testing
+    git clone https://github.com/MahmoudIbrahims/Interview_Assistant.git
+    cd Interview_Assistant
     ```
 
 2. **Install Dependencies**:
@@ -63,5 +63,5 @@ Feel free to submit pull requests or issues. Contributions to improve the chatbo
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mahmoudibrahimabdelfattah48@gmail.com).
+For any inquiries, please contact [mahmoudibrahimabdelfattah48@gmail.com].
 
