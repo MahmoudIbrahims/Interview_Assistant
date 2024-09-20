@@ -1,3 +1,5 @@
+![jamie](https://github.com/user-attachments/assets/3c6b4774-f868-42a3-9be5-257e5d34355e)
+
 # Interview Testing Chatbot
 
 ## Overview
