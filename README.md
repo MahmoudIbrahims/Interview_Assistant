@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Streamlit-based application designed for interview testing. The application utilizes a chatbot named **ZOOX** to interact with users and evaluate their responses based on their uploaded CVs. The bot helps assess candidates for different roles, such as Data Scientist and Python Developer, by asking relevant questions and scoring their answers based on similarity to correct responses.
+This repository contains a Streamlit-based application designed for interview testing. The application utilizes a chatbot named **Jamie** to interact with users and evaluate their responses based on their uploaded CVs. The bot helps assess candidates for different roles, such as Data Scientist and Python Developer, by asking relevant questions and scoring their answers based on similarity to correct responses.
 
 ## Features
 
