@@ -36,7 +36,7 @@ def ChatBot(data):
     
     flag =True
     
-    print('''Bot: hey me name is ZOOX,i am an artificial intelligence program to help you get the job, 
+    print('''Bot: hey me name is Gamie,i am an artificial intelligence program to help you get the job, 
            Let's have a conversation. If you want to exit just write Buy!''')
     print()
     #display(Image(filename =image_path, width =200, height =400))
