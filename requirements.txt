@@ -1,7 +1,7 @@
-langchain
-pypdf
-streamlit
-langchain-community
-docx2txt
-PyPDF2
-python-docx
+langchain==0.3.0
+pypdf==5.0.0
+streamlit==1.38.0
+langchain-community==0.3.0
+docx2txt==0.8
+PyPDF2==3.0.1
+python-docx==1.1.2
