@@ -38,7 +38,7 @@ def Extract_information(DATA):
 sent_token = sent_tokenizatian(data)
 
 def ChatBot(data):
-    st.write('''Assistant HR: hey my name is ZOOX, I am an artificial intelligence program to help you get the job. 
+    st.write('''Assistant HR: hey my name is Jamie, I am an artificial intelligence program to help you get the job. 
            Let's have a conversation. If you want to exit just write Bye!''')
     st.write()
 
